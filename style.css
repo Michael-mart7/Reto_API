@@ -53,7 +53,7 @@ tr:hover {
 }
 
 /* Diseño para pantallas pequeñas */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .contenedor {
         padding: 10px;
         overflow-x: auto;
